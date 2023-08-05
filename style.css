@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header { 
+    background-color: black;    
+    color: white;
+    width: 60%;
+    min-width: 1000px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.header-container {
+    background-color: black;
+}
+
+ .main-container { 
+    width: 60%;
+    min-width: 1000px;
+    margin: auto;
+    text-align: center;   
+}
+
+.profile-picture {
+    width: 100px;
+    padding: 16px 0;
+    vertical-align: top;
+}
+
+p {
+    margin: 20px;
+}
